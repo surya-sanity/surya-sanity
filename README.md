@@ -6,7 +6,7 @@
 - I'm a Mobile App Developer & sometimes Web too👨‍💻.<br>
 - I’m interested in Dart/Flutter, React Native and React<br>
 - Presently, I'm developing Softwares & apps with Flutter, React Native.
-- You can see my portfolio at [Instagram/sanityCodes](https://www.instagram.com/sanitycodes/)<br>
+- You can see my portfolio at [https://surya-dev.vercel.app/](https://surya-dev.vercel.app/)<br>
 
 <img src="https://komarev.com/ghpvc/?username=surya-sanity&label=Profile%20views&color=8042fc&style=plastic" alt="surya-sanity" /> 
 
