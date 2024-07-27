@@ -1,6 +1,6 @@
 # Hi there, I'm Surya! 👋
 
-I’m a web and mobile app developer at **Stratforge**, where I work as a full-time Frontend Engineer. I specialize in Flutter, React, Next.js, React Native, Express, and Node.js. React is my forte, but I’m also diving into creating visually appealing UI designs with a keen eye for detail. I’m coding like my life depends on it—because it does, and it’s a lot of fun!
+I’m a web and mobile app developer, I work as a full-time Frontend Engineer at **Stratforge**. I specialize in Flutter, React, Next.js, React Native, Express, and Node.js. React is my forte, but I’m also diving into creating visually appealing UI designs with a keen eye for detail. I’m coding like my life depends on it—because it does, and it’s a lot of fun!
 
 ## 🛠 Tech Stack
 Here are some of the technologies and tools I work with:
